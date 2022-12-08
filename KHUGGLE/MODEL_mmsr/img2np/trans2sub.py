@@ -9,7 +9,7 @@ from PIL import Image
 
 # 추론용 이미지(즉, 손상된 경희대 이미지)를 불러오고, 번호 순서대로 정렬합니다.
 # infer_dataset = './image_samples/church_colorization'
-infer_dataset = './test_set'
+infer_dataset = '/content/drive/MyDrive/competition/KHUGGLE/MODEL_mmsr/results/mmsr_SRResNet_pretrain/KHUGGLE'
 infer_dataset_images = listdir(infer_dataset)
 infer_dataset_images.sort()
 # infer_dataset_images.sort(key=lambda x: int(x.split('_')[1]))

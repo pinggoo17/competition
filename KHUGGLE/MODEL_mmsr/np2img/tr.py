@@ -7,7 +7,7 @@ import torch.nn as nn
 from torchvision.transforms import Compose, CenterCrop, ToTensor, Resize
 from PIL import Image
 
-data = np.load("submission.npy", allow_pickle=True)
+data = np.load("/content/drive/MyDrive/competition/KHUGGLE/MODEL_mmsr/img2np/submission.npy", allow_pickle=True)
 
 for i, img in enumerate(data):
     image = Image.fromarray(img)

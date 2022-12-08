@@ -8,9 +8,9 @@ gpu_ids: [0]
 
 datasets:
   test_1: # the 1st test dataset
-    name: set14
+    name: KHUGGLE
     mode: LQGT
-    dataroot_GT: /local_datasets/KHUGGLE/test
+    dataroot_GT: /content/drive/MyDrive/competition/KHUGGLE/MODEL_mmsr/datasets/KHUGGLE
     dataroot_LQ:
   # test_2:  # the 2st test dataset
   #   name: PIRMtest
