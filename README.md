@@ -28,4 +28,6 @@ After putting images and pre-trained models in the folder, you can try this mode
 
 please refer to detail [here](https://github.com/XPixelGroup/RankSRGAN).
 
-++ p.s. other models which are used in project, please refer to [here](https://drive.google.com/drive/u/1/folders/14hZLB-XNOwAoQO6hCvJXjr2DKZxio6dd).
+++ p.s. <br/>
+other models which are used in project, please refer to [here](https://drive.google.com/drive/u/1/folders/14hZLB-XNOwAoQO6hCvJXjr2DKZxio6dd).<br/>
+(other models: ESRGAN, BSRGAN_epoch_40, BSRGAN, realESRGAN, SwinIR) we ensembled these models.
