@@ -27,3 +27,5 @@ After putting images and pre-trained models in the folder, you can try this mode
 `!python test.py -opt options/test/test_RankSRGAN.yml`
 
 please refer to detail [here](https://github.com/XPixelGroup/RankSRGAN).
+
+++ p.s. other models which are used in project, please refer to [here](https://drive.google.com/drive/u/1/folders/14hZLB-XNOwAoQO6hCvJXjr2DKZxio6dd).
