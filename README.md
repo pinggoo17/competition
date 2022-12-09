@@ -9,7 +9,7 @@ submission code for competition
 ## 1. Real_HAT_GAN_SRx4
 We used <strong>Real_HAT_GAN_SRx4</strong> pretrained models.
 
-You can downlaod Real_HAT_GAN_SRx4.pth [here](https://github.com/XPixelGroup/HAT) <br/>
+You can downlaod Real_HAT_GAN_SRx4.pth [here](https://github.com/XPixelGroup/HAT). <br/>
 
 After putting images and pre-trained models in the folder, you can try this model with following command.
 
@@ -20,7 +20,7 @@ please refer to detail [here](https://github.com/XPixelGroup/HAT).
 ## 2. MMSR_SRResNet
 We used <strong>MMSR_SRResNet</strong> pretrained models.
 
-You can downlaod mmsr_SRResNet_pretrain.pth.pth [here](https://github.com/XPixelGroup/RankSRGAN) <br/>
+You can downlaod mmsr_SRResNet_pretrain.pth [here](https://github.com/XPixelGroup/RankSRGAN). <br/>
 
 After putting images and pre-trained models in the folder, you can try this model with following command.
 
